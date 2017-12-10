@@ -1,9 +1,14 @@
 # copyleft-oss-licensing
 
+== OBJECTIVE ==
+
 This is an attempt at taking open source licenses which are compliant
 with the Open Source Initiative's Open Source Definition and making them
 "copyleft". I am a busy man and I am far from being a lawyer, so I would
 appreciate some help.
+
+
+== INSPIRATION ==
 
 This was inspired by the recent news regarding the Intel Management Engine
 included in recent Intel CPUs. Intel Management Engine runs a BSD-licensed
@@ -18,3 +23,15 @@ manufacturers, including AMD, include something similar. One of the ways
 we can combat this is to take the open source software these companies
 rely on and re-license them in a way that requires the manufacturers to
 respect the freedom of the end-user.
+
+
+== ORGANIZATION ==
+
+Each license is given it's own directory. For licenses with multiple
+   incarnations, such as the BSD licenses, sub-directories might be present
+   to help differentiate them. Each license will have two versions available:
+
+	<name>+1: Clause added to ensure that source code is available
+                  and can be modified without fear of litigation.
+	<name>+2: Same as above, plus another clause added to ensure the
+                  right to remove and/or reinstall.
