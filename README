@@ -28,8 +28,8 @@ respect the freedom of the end-user.
 == ORGANIZATION ==
 
 Each license is given it's own directory. For licenses with multiple
-   incarnations, such as the BSD licenses, sub-directories might be present
-   to help differentiate them. Each license will have two versions available:
+incarnations, such as the BSD licenses, sub-directories might be present
+to help differentiate them. Each license will have two versions available:
 
 	<name>+1: Clause added to ensure that source code is available
                   and can be modified without fear of litigation.
