@@ -35,3 +35,9 @@ to help differentiate them. Each license will have two versions available:
                   and can be modified without fear of litigation.
 	<name>+2: Same as above, plus another clause added to ensure the
                   right to remove and/or reinstall.
+
+Exception: If a given license already has one of the above clauses, then
+there is obviously no need to add that same clause again. Instead, the
+"missing" clause will be added and the license will simply be named:
+
+	<name>+1
